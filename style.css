@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.biografia {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #00b4e6;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.biografia img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.biografia h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.biografia p {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
